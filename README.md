@@ -1,6 +1,6 @@
 # project_name_uwu
 
-A new Flutter project.
+A first aproach to Flutter
 
 ## Getting Started
 
